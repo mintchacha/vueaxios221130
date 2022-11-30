@@ -1,0 +1,13 @@
+@import './base.css';
+
+a{
+  text-decoration: none;
+}
+
+ul>li,ul,ol{
+  list-style-type: none;
+}
+
+h3{
+  font-size: 27px;  
+}

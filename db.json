@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "제목1",
+      "content": "내용1",
+      "create": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "title": "제목2",
+      "content": "내용2",
+      "create": "2022-02-01"
+    },
+    {
+      "id": 3,
+      "title": "제목3",
+      "content": "내용3",
+      "create": "2022-03-01"
+    },
+    {
+      "id": 4,
+      "title": "제목4",
+      "content": "내용4",
+      "create": "2022-04-01"
+    },
+    {
+      "id": 5,
+      "title": "제목5",
+      "content": "내용5",
+      "create": "2022-05-01"
+    },
+    {
+      "title": null,
+      "content": null,
+      "create": 1669811866906,
+      "id": 6
+    },
+    {
+      "title": "ㅁㄴㄹ",
+      "content": "ㅁㄴㄹ",
+      "create": 1669811885075,
+      "id": 7
+    },
+    {
+      "title": "ㅁㄴㄹ",
+      "content": "ㅁㄴㄹ",
+      "create": 1669811915236,
+      "id": 8
+    },
+    {
+      "title": "ㅛㅅ교",
+      "content": "ㄷ교",
+      "create": 1669812028498,
+      "id": 9
+    }
+  ]
+}
